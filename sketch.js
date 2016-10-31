@@ -1,10 +1,10 @@
 /***********************************
  * 
+ *    Creation and computation Experiment 2 
  * 
+ *    April Xie & Orlando Bascunan
  * 
- * 
- * 
- * 
+ *    October 2016
  * 
  */ //////////////////////////////////
  
